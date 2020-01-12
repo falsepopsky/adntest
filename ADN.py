@@ -30,27 +30,3 @@ for i in rnam:
         rna_t+= "G"
 
 print ("RNAt: 3\'", rna_t, "5\'")
-
-
-#def dnatoRNAm(a,t,c,g)
-#    if i == "a"
-
-
-#def rnamtoRNAt()
-
-
-#Transcripcion de DNA 5' a 3' a ARNm 3' a 5'
-
-
-
-
-
-#Transcripcion de ARNm a aminoacidos
-
-#primera letra [U,C,A,G]
-#segunda letra [U,C,A,G]
-#tercera letra [U,C,A,G]
-
-# esenciales
-#aaEscenciales [Val,Leu, Thr, Lys, Trp, His, Phe, Ile, Arg, Met]
-#aaNoEscenciales [Ala, Pro, Gly, Ser, Cys, Asn, Gln, Tyr, Asp, Glu]
